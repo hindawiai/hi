@@ -3,78 +3,78 @@ permalink: /faqs/
 title: "Frequently Asked Questions"
 ---
 
-### How many languages does the Hindawi Programming System support?
+### हिंदावी प्रोग्रामिंग सिस्टम कितनी भाषाओं का समर्थन करता है?
 
 All written languages.  we have currently volunteers for Hindi, Bengali, and Telugu, we are looking for volunteers to translate into other languages.
 
-Click here to join us. 
+हमसे जुड़ने के लिए यहां क्लिक करें। 
 
-### What type of applications can be created using Hindawi?
+### हिंडावा का उपयोग करके किस प्रकार के अनुप्रयोग बनाए जा सकते हैं?
 
-Hindawi has Assembly, lex, yacc and C. With these any programming language can be created and those programming languages can be used to make any kind of 
+हिंडावी में असेंबली, लेक्स, यास्क और सी है। इन किसी भी प्रोग्रामिंग भाषा के साथ बनाया जा सकता है और उन प्रोग्रामिंग भाषाओं का उपयोग किसी भी प्रकार के लिए किया जा सकता है 
 
-application. 
+आवेदन। 
 
-Hindawi can translate english source code into the language you choose ( for example hindi and make it executable so there will be no change in the functionality 
+हिंडावी अंग्रेजी स्रोत कोड को उस भाषा में अनुवाद कर सकते हैं (उदाहरण के लिए हिंदी और इसे निष्पादन योग्य बनाएं, इसलिए कार्यक्षमता में कोई बदलाव नहीं होगा 
 
-of the application.) Health IT tool like emr, even  AI libraries like tensorflow and caffe can be written in any mother tongue language using hindawi or it can 
+of the आवेदन।) Health IT tool like emr, even  AI libraries like tensorflow and caffe can be written in any mother tongue language using hindawi or it can 
 
-also convert english or any language code into the chosen language using hindawi.
-
-
-### Do you have any example, an application which is developed in Hindawi Programming System from scratch?
-
-Hindawi UI itself has been made in Hindawi, and AyeAM Autonomous Ambulance project and other open source projects are being developed along these directions and we are looking forward to working with the community.
-
-Coding in English has a long legacy, so even though it is not the cognate language  for people they have been using it to develop applications.
-
-There is not enough legacy for programming in mother tongue, so hindawi is supporting open source projects of project VIKRAM to bring the concepts of programming
-
-in mother tongue into people and contribute towards a stronger legacy of programming in mother tongue.
+हिंडावी का उपयोग करके अंग्रेजी या किसी भी भाषा कोड को चुनी गई भाषा में भी परिवर्तित करें।
 
 
-### How can other people understand my code which I have written in my mother tongue? For example my mother tongue is telugu and I write code for an application 
+### क्या आपके पास कोई उदाहरण है, एक ऐसा एप्लिकेशन जो हिंडावा प्रोग्रामिंग सिस्टम में स्क्रैच से विकसित किया गया है?
 
-### in telugu, how can other coders use and interpret my code,or how can my code get reviewed by my guide who only knows english.
+हिंडावी यूआई को हिंडावी में बनाया गया है, और इन दिशाओं के साथ एवाईएएम स्वायत्त एम्बुलेंस परियोजना और अन्य ओपन सोर्स प्रोजेक्ट विकसित किए जा रहे हैं और हम समुदाय के साथ काम करने की उम्मीद कर रहे हैं।
 
-Well, that's a great question. 
+Coding in English has a long legacy, so even though it is not the cognate language  for people they have been using it to develop आवेदन।.
 
- a. HPS allows code to be viewed in any supported human language. So I may code in Bangla Guru (C equivalent in Bangla) and you can view it in Telugu, Tamil, or 
+मातृभाषा में प्रोग्रामिंग के लिए पर्याप्त विरासत नहीं है, इसलिए हिंडावी प्रोग्रामिंग की अवधारणाओं को लाने के लिए परियोजना विक्रम की खुली स्रोत परियोजनाओं का समर्थन कर रही है
+
+लोगों में मातृभाषा में और मातृभाषा में प्रोग्रामिंग की एक मजबूत विरासत की ओर योगदान।
+
+
+### अन्य लोग मेरे कोड को कैसे समझ सकते हैं जो मैंने अपनी मातृभाषा में लिखा है? उदाहरण के लिए मेरी मातृभाषा तेलुगू है और मैं एक आवेदन के लिए कोड लिखता हूं 
+
+### तेलुगू में, अन्य कोडर मेरे कोड का उपयोग और व्याख्या कैसे कर सकते हैं, या मेरे कोड को मेरी गाइड द्वारा कैसे समीक्षा की जा सकती है जो केवल अंग्रेजी जानता है।
+
+खैर, यह एक बड़ा सवाल है। 
+
+ ए। एचपीएस किसी भी समर्थित मानव भाषा में कोड को देखने की अनुमति देता है। तो मैं बांग्ला गुरु (बांग्ला में सी समतुल्य) में कोड कर सकता हूं और आप इसे तेलुगू, तमिल, या में देख सकते हैं 
  
- for even in English
+ अंग्रेजी में भी
  
- b. Variable names are translated using a very innovative approach.
+ बी। परिवर्तनीय नामों का अनुवाद एक बहुत ही अभिनव दृष्टिकोण का उपयोग करके किया जाता है।
  
- c. Documentation / Comments translation is supported
+ सी। प्रलेखन / टिप्पणियाँ अनुवाद समर्थित है
  
- Apart from that... The rest of the software engineering processes are actually better as these languages have been co-designed across generations, lines of code, 
+ इसके अलावा ... शेष सॉफ्टवेयर इंजीनियरिंग प्रक्रिया वास्तव में बेहतर हैं क्योंकि इन भाषाओं को पीढ़ियों, कोड की रेखाओं में सह-डिजाइन किया गया है, 
  
- performance, library support etc are equivalent to (same as) the English version on the OS
+ प्रदर्शन, पुस्तकालय सहायता आदि ओएस पर अंग्रेजी संस्करण (समान) के बराबर हैं
 
-### How does the Hindawi Programming System Sustain ?
+### हिंदावी प्रोग्रामिंग सिस्टम कैसे बनाए रखता है?
 
 Hindawi is a an open source project, Till now Hindawi has been developed solely with the developers interest and it had received a fellowship from Sarai in 2006 and now Hindawi is looking for grants/funds/ donations  from individuals, corporates and government for sustenance and continuous development.
 
-### Who is the target audience for Hindawi ?
+### हिंदावी के लिए लक्षित दर्शक कौन है?
 
-Hindawi is always a choice for anyone who want to programme in non-english languages. We are also interested in introducing Hindawi Programming System in schools 
+हिंदावी हमेशा किसी भी व्यक्ति के लिए एक विकल्प है जो गैर-अंग्रेजी भाषाओं में प्रोग्राम करना चाहता है। हम स्कूलों में हिंडावा प्रोग्रामिंग सिस्टम शुरू करने में भी रूचि रखते हैं 
 
-and colleges along the objectives of New Education Policy 2020 of India. We will be humbled to receive support from the government. 
+और भारत के नई शिक्षा नीति 2020 के उद्देश्यों के साथ कॉलेज। हम सरकार से समर्थन प्राप्त करने के लिए नम्र होंगे। 
 
-### Where can I get trained in the Hindawi Programming System ?
+### मैं हिंदावी प्रोग्रामिंग सिस्टम में कहां से प्रशिक्षित हो सकता हूं?
 
-Our partner organizations train people on Hindawi. Links for the courses will be updated on the website time to time
+हमारे साथी संगठन हिंडावी पर लोगों को प्रशिक्षित करते हैं। पाठ्यक्रमों के लिए लिंक वेबसाइट के समय पर अद्यतन किया जाएगा
 
-### Where can I find the demo ?
+### मुझे डेमो कहां मिल सकता है?
 
- Please visit our github repo or click here to see the demo of Hindawi.
+ कृपया हमारे गिटहब रेपो पर जाएं या हिंडावी के डेमो को देखने के लिए यहां क्लिक करें।
  
-### I wish to donate ,How do I do that ?
+### मैं दान करना चाहता हूं, मैं यह कैसे करूं?
 
-Please click here to donate 
+दान करने के लिए कृपया यहां क्लिक करें 
 
-### We wish to partner with Hindawi, How do we do that ?
+### हम हिंडावी के साथ साझेदारी करना चाहते हैं, हम ऐसा कैसे करते हैं?
 
-Please click here to partner with us
+कृपया हमारे साथ साझेदारी करने के लिए यहां क्लिक करें
 
 

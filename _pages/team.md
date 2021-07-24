@@ -5,35 +5,35 @@ title: Team
 
 <img src="https://projectvikram.github.io/restricted_assets/images/ac_photo.jpg" alttext="Abhishek Choudhary (avatar image)" width="300" height="300">
 
-## Abhishek Choudhary
-### Founder & Mentor
-#### @obonac
+## अभिषेक चौधरी
+### संस्थापक और सलाहकार
+#### @OBONAC
 
-Abhishek Choudhary is the founder and managing partner of AyeAI Consulting - a startup developing IaaS for scientific and cognitive computing towards accessible healthcare. 
+अभिषेक चौधरी आइएईआई परामर्श के संस्थापक और प्रबंध भागीदार हैं - एक स्टार्टअप विकासशील स्वास्थ्य देखभाल के लिए वैज्ञानिक और संज्ञानात्मक कंप्यूटिंग के लिए आईएएएस विकसित करना। 
 
-He is also the MD of Interglial Healthcare and acting CEO of Vyas Labs.
+वह व्याख्यात्मक हेल्थकेयर और व्यास लैब्स के अभिनय सीईओ के एमडी भी हैं।
 
-Prior to starting AyeAI, Abhishek worked for IBM for over 7 years as a Senior Architect responsible for seeding and growing Power Hypervisor IO virtualization and firmware from Power 7 to Power 9 processor families, qemu based system simulation, and was one of the founding architects for PowerAI (currently called ‘Watson Machine Learning Accelerator’)
+आइएईआई शुरू करने से पहले, अभिषेक ने 7 वर्षों से 7 वर्षों से वरिष्ठ वास्तुकार के लिए काम किया था और बिजली 7 हाइपरवाइजर आईओ वर्चुअलाइजेशन और पावर 7 से पावर 9 प्रोसेसर परिवारों, क्यूईएमयू आधारित सिस्टम सिमुलेशन के लिए फर्मवेयर के लिए जिम्मेदार था, और के लिए संस्थापक आर्किटेक्ट्स में से एक था पावरई (जिसे वर्तमान में 'वाटसन मशीन लर्निंग एक्सेरेटर' कहा जाता है)
 
-In a career of over two decades he conceptualized and built internationally awarded telemedicine devices ( HMSEI / RDK / Dr Rho ), blended reality autonomous vehicles ( TARA ) and cognitive robots ( ANGEL ).He has also worked for Hewlett Packard as a platform architect for software defined networking, a Cummin franchise on industrial automation and intelligent vehicles and a UK based fintech provider on intelligent regulatory reporting. Accomplished innovator with multiple patent filings and publications, he has been a pioneer in inclusive technologies having developed Hindawi Programming System for systems programming in Hindi and other Indian languages.
+दो दशकों से अधिक के करियर में उन्होंने निर्वाचित किया और अंतरराष्ट्रीय स्तर पर सम्मानित टेलीमेडिसिन उपकरणों (एचएमसीईआई / आरडीके / डॉ आरएचओ), मिश्रित रियलिटी स्वायत्त वाहन (तारा) और संज्ञानात्मक रोबोट (एंजेल) का निर्माण किया। उन्होंने हेवलेट पैकार्ड के लिए एक मंच वास्तुकार के रूप में भी काम किया है सॉफ्टवेयर परिभाषित नेटवर्किंग, औद्योगिक स्वचालन और बुद्धिमान वाहनों पर एक कमिन फ्रेंचाइजी और बुद्धिमान नियामक रिपोर्टिंग पर यूके आधारित फिनटेक प्रदाता। कई पेटेंट फाइलिंग और प्रकाशनों के साथ अभिनव अभिनव, वह समावेशी प्रौद्योगिकियों में अग्रणी रहे हैं जिनके पास हिंदी और अन्य भारतीय भाषाओं में सिस्टम प्रोग्रामिंग के लिए हिंडावी प्रोग्रामिंग सिस्टम विकसित किया गया है।
 
-He is multidisciplinary trained in Pre-clinical Medicine, Neural Engineering, Medical Devices Technology, Telemedicine, Remote Diagnostics, Augmented Reality, Robotics & AI (Natural Language Processing, Machine Learning, Deep Learning, Analytics and Data Sciences).Qualifications also include MBA, Law, Clinical Psychology, Linguistics, Philosophy and Genetic Anthropology. He started as a freelancer in 1996 working on embedded systems and has been an Entrepreneur between 2000 - 2006 building medical devices and autonomous robots. His research areas are Brain Computer Interface and Brain Implants (electro-chemical implants for Parkinson's disease, Alzheimer's disease and developmental cognitive disorders), Technological Singularity and Transhumanism.
+वह पूर्व-नैदानिक ​​चिकित्सा, तंत्रिका इंजीनियरिंग, चिकित्सा उपकरण प्रौद्योगिकी, टेलीमेडिसिन, रिमोट डायग्नोस्टिक्स, बढ़ी हुई वास्तविकता, रोबोटिक्स और एआई (प्राकृतिक भाषा प्रसंस्करण, मशीन लर्निंग, गहरी लर्निंग, एनालिटिक्स और डेटा साइंसेज) में प्रशिक्षित बहुआयामी है। गुणवत्ता में एमबीए भी शामिल हैं, कानून, नैदानिक ​​मनोविज्ञान, भाषाविज्ञान, दर्शनशास्त्र और आनुवंशिक मानव विज्ञान। उन्होंने 1 99 6 में एम्बेडेड सिस्टम पर काम कर रहे एक फ्रीलांसर के रूप में शुरू किया और 2000 - 2006 के निर्माण चिकित्सा उपकरणों और स्वायत्त रोबोट के बीच एक उद्यमी रहा है। उनके शोध क्षेत्र मस्तिष्क कंप्यूटर इंटरफेस और मस्तिष्क प्रत्यारोपण (पार्किंसंस रोग, अल्जाइमर रोग और विकासात्मक संज्ञानात्मक विकारों के लिए इलेक्ट्रो-रासायनिक प्रत्यारोपण), तकनीकी एकवचन और ट्रांसहुमनवाद हैं।
 
 ## &#10070;
 
 <img src="https://projectvikram.github.io/restricted_assets/images/dr_srija.jpg" alttext="Dr Srija Katta (avatar image)" width="300" height="300">
 
-## Dr Srija Katta 
-### Co-ordinator
-#### @srija-ieee
+## डॉ श्रीजा कट्टा 
+### समन्वयक
+#### @ श्रीजा-आईईईई
 
-Dr Srija is the Co-Founder of AyeAI Consulting and heads Company Operations and Pharma lab. She is a Director at Vyas Labs Pvt Ltd and Interglial Healthcare (OPC) Pvt Ltd. 
+डॉ श्रीजा आइएई परामर्श और प्रमुख कंपनी के संचालन और फार्मा लैब के सह-संस्थापक हैं। वह व्यास लैब्स प्राइवेट लिमिटेड और इंटरगेलियल हेल्थकेयर (ओपीसी) प्राइवेट लिमिटेड में एक निदेशक हैं 
 
-She is a passionate Entrepreneur experienced in Startup Strategy, New Product Road Map, Requirement Analysis, with skills in Artificial Intelligence for Pharma and Healthcare. She was one among the invitees of Roundtable “Transforming Primary Healthcare – Leveraging Technologies” at NASSCOM Technology and Leadership Forum 2019. She was an invited speaker for IEEE CIS Summer School 2018 and has delivered a hands-on session on topic “AI in Healthcare.” Dr Srija is also familiar with Course Design, Seminars and Workshop delivery. 
+वह एक भावुक उद्यमी है जो स्टार्टअप रणनीति, नए उत्पाद रोड मैप, आवश्यकता विश्लेषण, फार्मा और हेल्थकेयर के लिए कृत्रिम बुद्धि में कौशल के साथ अनुभव करती है। वह नासकॉम प्रौद्योगिकी और नेतृत्व फोरम 201 9 में गोलमेज "ट्रांसफॉर्मिंग प्राथमिक स्वास्थ्य देखभाल - लीवरेजिंग टेक्नोलॉजीज" के निमंत्रणों में से एक थीं। वह आईईईई सीआईएस ग्रीष्मकालीन स्कूल 2018 के लिए एक आमंत्रित अध्यक्ष थीं और उन्होंने "एआई हेल्थकेयर में" विषय पर एक हाथ से सत्र दिया है। " डॉ श्रीजा कोर्स डिजाइन, सेमिनार और कार्यशाला वितरण से भी परिचित है। 
 
-Dr Srija is a Clinical Pharmacist (Doctor of Pharmacy) by profession, trained in biz-ops like Regulatory Compliance, Banking Operations, HR Management, Public Relations, Business Development, Collaterals Design, Awareness and Marketing Campaign Design and other technical aspects like GitOps, Website Development among others, She is skilled in Systemic and Conversational Peer Review and has been a Reviewer for a few international conferences and Journals including International Society of Pharmacoeconomics and Outcomes Research - 6th Latin America Conference, Brazil - 2017 and 20th Annual European Congress - 2017.
+डॉ श्रीजा पेशे द्वारा एक नैदानिक ​​फार्मासिस्ट (फार्मेसी का डॉक्टर) है, जिसे नियामक अनुपालन, बैंकिंग परिचालन, मानव संसाधन प्रबंधन, जनसंपर्क, व्यापार विकास, कॉललेटर डिजाइन, जागरूकता और विपणन अभियान डिजाइन और गिट्स के अन्य तकनीकी पहलुओं जैसे बिज़-ऑप्स में प्रशिक्षित किया जाता है, वेबसाइट विकास दूसरों के बीच, वह प्रणालीगत और बातचीतशील सहकर्मी समीक्षा में कुशल है और अंतरराष्ट्रीय सोसाइटी ऑफ फार्माकोकॉनॉमिक्स एंड आउंट्स रिसर्च - 6 वें लैटिन अमेरिका सम्मेलन, ब्राजील - 2017 और 20 वीं वार्षिक यूरोपीय कांग्रेस - 2017 सहित कुछ अंतरराष्ट्रीय सम्मेलनों और पत्रिकाओं के लिए एक समीक्षक रहा है। ।
 
-Her professional interests include Artificial Intelligence and Insilico Drug Discovery, Medical Devices, Digihealth, Telemedicine, IoMT. Research interests include Psychoneuroimmunological studies with respect to human epigenetics and social habits. She aspires for Social Welfare and has conducted various Healthcare Awareness Campaign during her graduation days. She actively coordinates the activities of TWISHA - The Women in Self Health Awareness, a health4all initiative by an NGO, Gramsheel Foundation. She has been one among the top distinction holders of the prestigious Ashoka Changemaker Intraprenuership - 2018
+उनके पेशेवर हितों में कृत्रिम बुद्धि और अनिर्णीसी दवा की खोज, चिकित्सा उपकरण, डिजीहेल्थ, टेलीमेडिसिन, आईओएमटी शामिल हैं। अनुसंधान हितों में मानव epigenetics और सामाजिक आदतों के संबंध में मनोचिकित्सा है। वह सामाजिक कल्याण के लिए इच्छा रखती है और स्नातक के दिनों के दौरान विभिन्न स्वास्थ्य देखभाल जागरूकता अभियान आयोजित की है। वह सक्रिय रूप से स्विश की गतिविधियों को समन्वयित करती हैं - सेल्फ हेल्थ जागरूकता में महिलाएं, एक गैर सरकारी संगठन, ग्रामशील फाउंडेशन द्वारा एक स्वास्थ्य 4 सभी पहल। वह प्रतिष्ठित अशोक चांगमेकर इंट्राप्रोश्रीशिप - 2018 के शीर्ष भेदधारकों में से एक रही है
 
 ## &#10070;
 

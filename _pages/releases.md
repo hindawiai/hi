@@ -2,16 +2,16 @@
 permalink: /releases/
 title: Releases
 ---
-### Earlier Version :
+### पुराना संस्करण :
 
-Initial release - 15 August 2004
+प्रारंभिक रिलीज - 15 अगस्त 2004
 
-Release of version 2 - 15 August 2005
+संस्करण 2 - 15 अगस्त 2005 की रिलीज
 
-Release of Linux port under Sarai fellowship - 16 August 2006
+सारा फैलोशिप के तहत लिनक्स पोर्ट की रिलीज - 16 अगस्त 2006
 
-### Current Version : 
-Current Version is under development 
+### वर्तमान संस्करण : 
+वर्तमान संस्करण विकास के तहत है 
 
 Hindawi 2020.1 [Ref]
 

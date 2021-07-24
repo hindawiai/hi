@@ -2,10 +2,10 @@
 permalink: /resources/
 title: Learning Resources
 ---
- Introduction to Hindawi Programming System :
+ हिंदावी प्रोग्रामिंग सिस्टम का परिचय:
  
 <style>
-.responsive-wrap iframe{ max-width: 100%;}
+.rsponsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap" markdown="0">
 <!-- this is the embed code provided by Google -->

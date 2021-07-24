@@ -39,9 +39,9 @@ feature_row:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CssOPazgft4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Hindawi is an open-source, complete non-English based systems programming platform supporting all paradigms of programming languages from assembly language to logic and functional programming, which effectively shatters the language barrier allowing non English literates to take up computer sciences and revolution at all levels of technology, from primary school education to robotics and super-computing in their mother tongue, without the need to master English.
+हिंडावी एक ओपन-सोर्स, पूर्ण गैर-अंग्रेजी आधारित सिस्टम प्रोग्रामिंग प्लेटफॉर्म है जो असेंबली भाषा से तर्क और कार्यात्मक प्रोग्रामिंग के लिए प्रोग्रामिंग भाषाओं के सभी प्रतिमानों का समर्थन करता है, जो प्रभावी रूप से भाषा बाधा को हिलाता है जो गैर अंग्रेजी साक्षरता को कंप्यूटर विज्ञान और क्रांति को सभी स्तरों पर लेने की इजाजत देता है प्रौद्योगिकी का, प्राथमिक विद्यालय शिक्षा से रोबोटिक्स और सुपर-कंप्यूटिंग से उनकी मातृभाषा में, अंग्रेजी मास्टर करने की आवश्यकता के बिना।
 
-It is a suite of open-source Indic programming languages. It includes compilers for the equivalents of C, C++, lex, yacc, assembly, BASIC, Ada etc. in Hindi, Bangla, Gujrati, Assomiya, Nepali and other Indian languages. These localized programming languages are known as Shaili, e.g. Indic C is Shaili Guru, Indic C++ is Shaili Shraenibadha, Indic Assembly is Shaili Yantrik and so on.
+यह ओपन-सोर्स इंडिक प्रोग्रामिंग भाषाओं का एक सूट है। इसमें हिंदी, बांग्ला, गुजराती, असोमिया, नेपाली और अन्य भारतीय भाषाओं में सी, सी ++, लेक्स, यास्क, असेंबली, बेसिक, एडीए इत्यादि के समकक्षों के लिए कंपाइलर शामिल हैं। इन स्थानीय प्रोग्रामिंग भाषाओं को शैली के रूप में जाना जाता है, उदा। इंडिक सी शैली गुरु है, इंडिक सी ++ शैली शरानिबाधा है, इंडिक असेंबली शैली यानकिक और इतने पर है।
 
-Disclaimer: This is being shared for academic and information purposes only. There is no guarantee or liability of any kind or consideration. There is no claim to accuracy or fitment for any purpose.
+अस्वीकरण: यह केवल अकादमिक और सूचना उद्देश्यों के लिए साझा किया जा रहा है। किसी भी प्रकार या विचार की कोई गारंटी या देयता नहीं है। किसी भी उद्देश्य के लिए सटीकता या फिटनेस का कोई दावा नहीं है।
 

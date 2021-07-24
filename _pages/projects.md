@@ -2,4 +2,4 @@
 permalink: /projects/
 title: Projects 
 ---
-The list of projects will be updated soon..
+परियोजनाओं की सूची जल्द ही अपडेट की जाएगी ..

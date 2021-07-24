@@ -3,26 +3,26 @@ permalink: /innovations/
 title: Innovations in Hindawi
 ---
 
-Some of the innovations of Hindawi Programming System(HPS) include:
+हिंदावी प्रोग्रामिंग सिस्टम (एचपीएस) के कुछ नवाचारों में शामिल हैं:
  
-1.A pioneering system for displaying Indian scripts in "true" text-mode, without using any special hardware;
+1. किसी भी विशेष हार्डवेयर का उपयोग किए बिना, "ट्रू" टेक्स्ट-मोड में भारतीय स्क्रिप्ट प्रदर्शित करने के लिए एक अग्रणी प्रणाली;
 
-2.An innovative "case and diacritic independent, compiler acceptable" transliteration system that supports the development of non-English programming language 
+2. एक अभिनव "केस और डायक्रिटिक स्वतंत्र, संकलक स्वीकार्य" लिप्यंतरण प्रणाली जो गैर-अंग्रेजी प्रोग्रामिंग भाषा के विकास का समर्थन करती है 
 
-compilers. This maps to the IPA and is hence globally applicable.
+संकलक। आईपीए के लिए यह नक्शे और इसलिए विश्व स्तर पर लागू है।
 
-3.The system uses GCC as back-end and is highly portable. There is both ISCII and UNICODE support for all languages. The International Phonetic Alphabet has been 
+3. सिस्टम जीसीसी को बैक-एंड के रूप में उपयोग करता है और अत्यधिक पोर्टेबल है। सभी भाषाओं के लिए ISCII और यूनिकोड समर्थन दोनों हैं। अंतरराष्ट्रीय ध्वन्यात्मक वर्णमाला रहा है 
 
-mapped to Romenagri, extending the reach of HPS to all human languages.
+रोमेनगरी के लिए मैप किया गया, सभी मानव भाषाओं में एचपी की पहुंच का विस्तार।
 
-4.The languages have been developed synchronically and, hence, there is a certain level of homogeneity in keyword selection across paradigms.
+4. भाषाओं को सिंक्रोनिक रूप से विकसित किया गया है और इसलिए, प्रतिमानों में कीवर्ड चयन में एकरूपता का एक निश्चित स्तर है।
 
-5.The programs written in Indian language programming languages are readily converted to their English equivalents and hence may be delivered internationally. There 
+5. भारतीय भाषा प्रोग्रामिंग भाषाओं में लिखे गए कार्यक्रम आसानी से अपने अंग्रेजी समकक्षों में परिवर्तित होते हैं और इसलिए अंतरराष्ट्रीय स्तर पर वितरित किए जा सकते हैं। वहां 
 
-is also support for translation of variable names and rudimentary literate programming.
+परिवर्तनीय नामों और प्राथमिक साक्षर प्रोग्रामिंग के अनुवाद के लिए भी समर्थन है।
 
-6.The availability of lex and yacc makes the issues of targeting specific languages quite trivial, and these are already available for download along with C, C++, 
+6. लेक्स और वाईएसीसी की उपलब्धता विशिष्ट भाषाओं को लक्षित करने के मुद्दों को काफी मामूली बनाता है, और ये पहले से ही सी, सी ++ के साथ डाउनलोड के लिए उपलब्ध हैं, 
 
-assembly, BASIC, logo, and Java in Hindi and Bangla.
+हिंदी और बांग्ला में असेंबली, बेसिक, लोगो और जावा।
  
-Recent Innovations will be updated soon..
+हाल ही में नवाचारों को जल्द ही अपडेट किया जाएगा ..
