@@ -1,0 +1,48 @@
+main:
+  - title: Home
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Advisors"
+    url: /advisors/
+  - title: Team
+    url: /team/
+      
+  - title: "Projects"
+    url: /projects/
+  - title: "Partners"
+    url: /partners/
+    
+  - title: Recognitions
+    url: /recognitions/
+
+  - title: Frequently Asked Questions
+    url: /faqs/
+
+  - title: Learning Resources
+    url: /resources/
+  - title: Releases
+    url: /releases/
+ 
+
+  - title: Innovations in Hindawi
+    url: /innovations/
+
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Posts"
+    url: /posts/
+
+
+  - title: "License"
+    url: /license/
+  - title: "Terms & Conditions"
+    url: /terms/
+  - title: "Privacy Policy"
+    url: /privacy/
+  - title: "Join Us"
+    url: /join-us/
+    
+
